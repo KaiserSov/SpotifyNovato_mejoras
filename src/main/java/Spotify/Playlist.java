@@ -69,9 +69,8 @@ public class Playlist {
                 System.out.println("--------------------------------------------------------");
                 System.out.println(" ");
                 filterDuration();
-                System.out.println(" ");
                 System.out.println("--------------------------------------------------------");
-                System.out.println(" ");
+                break;
 
             default:
                 System.out.println("Okay >_<");
